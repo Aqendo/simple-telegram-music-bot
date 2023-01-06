@@ -1,0 +1,6 @@
+fastapi
+yt-dlp
+ytmusicapi
+aiogram
+gunicorn
+uvicorn
